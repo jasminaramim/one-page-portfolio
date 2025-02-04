@@ -3,8 +3,7 @@
 ![Project Screenshot](./src/assets/pictures/image.png)
 ## Description
 
-🔹 Short Project Overview
-This One Page Portfolio is a personal website designed to showcase my skills, projects, and professional experience as a front-end developer. The portfolio is built with modern web technologies, ensuring that it is responsive, user-friendly, and accessible across all devices.
+
 
 ### 🔗 **Live Project Link**  
 [Live Demo](https://jasmin-portfolio-2005.netlify.app/)  
